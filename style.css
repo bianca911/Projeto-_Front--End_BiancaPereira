@@ -38,3 +38,26 @@ p{
     font-family: 'Times New Roman', Times, serif;
     font-size: 17px;
 }
+
+h4{
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+p{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+
+h5 {
+    
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+p {
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
