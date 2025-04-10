@@ -18,4 +18,36 @@ Neste trabalho, será abordado um pouco sobre a história das bandas e quais sã
 
 # Imagens usadas
 
+<img src="./baixados (6).jpg" height="250px">
+
+<img src="./Type O Negative Ideas.jpg" height="250px">
+
+<img src="./Theatre of Tragedy.jpeg" height="250px">
+
+<img src="./Introducing_.. my dying bride" height="250px">
+
 <img src="./Lacrimosa banda.jpg" height="250px">
+
+<img src="./baixados (7).jpeg" height="250px">
+
+# Prints das telas desenvolvidas
+
+<img src="./Captura de tela 2025-04-10 140330.png">
+
+<img src="./Captura de tela 2025-04-10 140355.png">
+
+<img src="./Captura de tela 2025-04-10 140417.png">
+
+<img src="./Captura de tela 2025-04-10 140447.png">
+
+<img src="./Captura de tela 2025-04-10 140507.png">
+
+<img src="./Captura de tela 2025-04-10 140629.png">
+
+# Imagem de fundo
+
+<img src="./Dark Purple.jpg" height="250px">
+
+# Tecnologias Utilizadas
+
+HTML e CSS.
